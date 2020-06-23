@@ -14,3 +14,10 @@
 - It supports hardware platforms such as Intel x86,  Arm, Itanium, PowerPC, and IBM System z.
 - It uses the yum and dnf  RPM-based yum package managers (covered in detail later) to install, update, and remove packages in the system.
 - RHEL is widely used by enterprises which host their own systems.
+
+### SUSE
+
+The relationship between SUSE  (SUSE Linux Enterprise Server (SLES) ) and openSUSE is similar to the one described between RHEL, CentOS, and Fedora.
+
+We use openSUSE as the reference distribution for the SUSE family, as it is available to end users at no cost. Because the two products are extremely similar, the material that covers openSUSE can typically be applied to SLES with few problems.
+
