@@ -8,10 +8,22 @@ ___
 
 ## Index
 
+- Structure of Command
 - Commands
     - Sudo
 - Virtual Terminal (VT)
 - Turning off Graphical Desktop
+
+___
+
+## Structure of Command
+
+Every command has three parts- (1) Command (2) Options (3) Arguments
+
+```bash
+command [--options][arguments]
+
+```
 
 ___
 
