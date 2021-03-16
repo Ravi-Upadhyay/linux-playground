@@ -13,6 +13,7 @@ ___
     - Sudo
 - Virtual Terminal (VT)
 - Turning off Graphical Desktop
+- System Maintenance - Shutdown Command
 
 ___
 
@@ -55,3 +56,14 @@ To start the service:
 `sudo systemctl start gdm` or 
 `sudo telinit 5` or 
 `sudo service gdm start`
+
+___
+
+## System Maintenance - Shutdown Command
+
+- The preferred method to shut down or reboot the system is to use the shutdown command.
+- The halt and poweroff commands issue `shutdown -h` to halt the system; reboot issues `shutdown -r`.
+- Both the commands should be run as super user.
+
+___
+
