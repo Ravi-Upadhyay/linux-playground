@@ -14,6 +14,7 @@ ___
 - Virtual Terminal (VT)
 - Turning off Graphical Desktop
 - System Maintenance - Shutdown Command
+- Locating Applications
 
 ___
 
@@ -67,3 +68,8 @@ ___
 
 ___
 
+## Locating Applications
+
+- In general, executable programs and scripts should live in the /bin, /usr/bin, /sbin, /usr/sbin directories, or somewhere under /opt
+- They can also appear in /usr/local/bin and /usr/local/sbin, or in a directory in a user's account space, such as /home/student/bin.
+- `which` and `whereis` are two utilities to locate programs
